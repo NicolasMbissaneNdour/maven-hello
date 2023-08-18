@@ -1,0 +1,31 @@
+# Fichiers et répertoires générés par Maven
+target/
+*.iml
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+*.log
+
+# Fichiers de configuration d'environnement (ex. fichiers .env, .properties)
+*.env
+*.properties
+
+# Fichiers spécifiques à votre IDE (ajoutez ceux qui correspondent à votre IDE)
+.idea/
+*.iml
+.vscode/
+.settings/
+*.classpath
+*.project
+*.metadata
+
+# Fichiers de sauvegarde et de cache
+*~
+*.swp
+*.bak
+*.tmp
+
+# Fichiers de dépendances Maven téléchargées
+repository/
